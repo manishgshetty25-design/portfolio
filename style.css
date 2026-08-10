@@ -423,3 +423,174 @@ display:none;
 }
 
 }
+<!--==========================
+ABOUT SECTION
+===========================-->
+
+<section id="about" class="about">
+
+<div class="container">
+
+<div class="about-title">
+
+<h2>About Me</h2>
+
+<p>Get to know me better</p>
+
+</div>
+
+<div class="about-grid">
+
+<div class="about-card">
+
+<h3>Who I Am</h3>
+
+<p>
+
+I'm <strong>Manish Shetty</strong>, an SEO Executive passionate about improving website visibility through Technical SEO, On-Page SEO, Keyword Research, and Content Optimization.
+
+</p>
+
+<p>
+
+I enjoy solving SEO challenges using data, analytics, and search engine best practices.
+
+</p>
+
+</div>
+
+<div class="about-card">
+
+<h3>Quick Information</h3>
+
+<ul>
+
+<li>📍 Bengaluru, Karnataka</li>
+
+<li>💼 SEO Executive</li>
+
+<li>🎓 MBA (Pursuing)</li>
+
+<li>📈 1+ Year Experience</li>
+
+<li>🌐 Technical SEO Specialist</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!--==========================
+SKILLS
+===========================-->
+
+<section id="skills" class="skills">
+
+<div class="container">
+
+<div class="about-title">
+
+<h2>My Skills</h2>
+
+<p>Professional Expertise</p>
+
+</div>
+
+<div class="skill">
+
+<div class="skill-info">
+
+<span>Technical SEO</span>
+
+<span>95%</span>
+
+</div>
+
+<div class="progress">
+
+<div class="bar" style="width:95%"></div>
+
+</div>
+
+</div>
+
+<div class="skill">
+
+<div class="skill-info">
+
+<span>Keyword Research</span>
+
+<span>92%</span>
+
+</div>
+
+<div class="progress">
+
+<div class="bar" style="width:92%"></div>
+
+</div>
+
+</div>
+
+<div class="skill">
+
+<div class="skill-info">
+
+<span>Google Search Console</span>
+
+<span>95%</span>
+
+</div>
+
+<div class="progress">
+
+<div class="bar" style="width:95%"></div>
+
+</div>
+
+</div>
+
+<div class="skill">
+
+<div class="skill-info">
+
+<span>Google Analytics</span>
+
+<span>90%</span>
+
+</div>
+
+<div class="progress">
+
+<div class="bar" style="width:90%"></div>
+
+</div>
+
+</div>
+
+<div class="skill">
+
+<div class="skill-info">
+
+<span>Ahrefs & SEMrush</span>
+
+<span>88%</span>
+
+</div>
+
+<div class="progress">
+
+<div class="bar" style="width:88%"></div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
